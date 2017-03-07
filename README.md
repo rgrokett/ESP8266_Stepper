@@ -15,15 +15,16 @@ you would need to add regulators and related components to make the voltages
 compatible.
 
 Hardware
-•  Adafruit HUZZAH ESP8266 Breakout  https://www.adafruit.com/products/2471
-•  Adafruit TB6612 1.2A DC/Stepper Motor Driver Board https://www.adafruit.com/products/2448
-•  Stepper motor NEMA-17 size 200 steps/rev, 12V 350mA https://www.adafruit.com/products/324 or equiv
-•  12 VDC 1000mA power supply  https://www.adafruit.com/products/798 or equiv
-•  FTDI or USB console cable https://www.adafruit.com/products/954 or equiv
-•  Breadboard, wire, etc.
+ *  Adafruit HUZZAH ESP8266 Breakout  https://www.adafruit.com/products/2471
+ *  Adafruit TB6612 1.2A DC/Stepper Motor Driver Board https://www.adafruit.com/products/2448
+ *  Stepper motor NEMA-17 size 200 steps/rev, 12V 350mA https://www.adafruit.com/products/324 or equiv
+ *  5 VDC 2000mA power supply  https://www.adafruit.com/products/276 or equiv
+ *  FTDI or USB console cable https://www.adafruit.com/products/954 or equiv
+ *  Breadboard, wire, etc.
 
 Software
-•  Arduino IDE with ESP8266 extension package installed
-•  Download my ESP8266 Stepper web server app from GitHub
-   https://github.com/rgrokett/ESP8266_stepper/
+ *  Arduino IDE with ESP8266 extension package installed
+ *  Download my ESP8266 Stepper web server app from GitHub https://github.com/rgrokett/ESP8266_stepper/
+
+See [ESP8266_Stepper.pdf](ESP8266_Stepper.pdf) for details.
 
